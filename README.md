@@ -1,2 +1,2 @@
-# linuxpesui-o
+# linuxpesui/o
 assignments
